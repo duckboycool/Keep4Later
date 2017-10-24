@@ -12,3 +12,7 @@ body {
     text-align: center;
     text-transform: none;
 }
+
+a {
+    color: #e0b50b;
+}
